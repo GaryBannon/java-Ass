@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Guest
+comment0.text=\n\ A\ class\ to\ describe\ a\ guest\ at\ the\ library\n\n\ @author\ Gary\n\ @version\ 2022\n
+comment1.params=title\ name\ dob\ gender\ daysAccess
+comment1.target=Guest(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Guest\n
+comment2.params=
+comment2.target=int\ getDaysAccess()
+comment3.params=extension
+comment3.target=void\ extendAccess(int)
+numComments=4
